@@ -5,7 +5,7 @@ describe('Comparadores comunes', () => {
     }
     const user2 = {
         name: "Miguel",
-        lastname:"Ortiz2"
+        lastname:"Ortiz"
     }
 
     test('igualdad de elementos', () => {
